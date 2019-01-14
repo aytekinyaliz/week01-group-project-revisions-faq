@@ -1,8 +1,6 @@
-# Changes Requested on FAQ App
-This repository is part of CodeYourFuture's [group projects](https://github.com/CodeYourFuture/group-projects).
-
-
 # Changes Requested on Frequently Asked Questions App
+
+This repository is part of CodeYourFuture's [group projects](https://github.com/CodeYourFuture/group-projects).
 
 You work in a small development team responsible for a "question and answer" application your company uses to communicate internally. Following user testing, your team leader has requested that a few changes be made to the application.
 
@@ -21,4 +19,3 @@ You work in a small development team responsible for a "question and answer" app
 When you complete the project, we'll expect to be able to clone the `master` branch of your group repository and see the app with everyone's changes in place. (Read our instructions on [how to fork and clone](https://codeyourfuture.github.io/syllabus-master/others/making-a-pull-request.html).)
 
 Be sure to alert the mentors when you have finished so that we can review it.
-
