@@ -35,6 +35,12 @@ input {
 	cursor: pointer;
 }
 
+
+.button--ask {
+	padding: 0.75em 1.25em;
+	font-weight: bold;
+}
+
 /* Site title and top navigation */
 .site-header {
 	display: flex;
@@ -82,4 +88,5 @@ input {
 .ask-question {
 	padding: 0.5rem 1rem;
 	text-align: center;
+	
 }
