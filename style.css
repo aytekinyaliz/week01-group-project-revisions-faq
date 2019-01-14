@@ -35,6 +35,11 @@ input {
 	cursor: pointer;
 }
 
+a.button {
+	background: mediumslateblue;
+	border: 2px solid mediumslateblue;
+}
+
 /* Site title and top navigation */
 .site-header {
 	display: flex;
