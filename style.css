@@ -82,6 +82,9 @@ a.button {
 	color: rgba(0,0,0,0.6);
 	text-align: right;
 }
+.question--self {
+	border-top: 4px solid #db446f;
+}
 
 /* Input area to add a new question */
 .ask-question {
