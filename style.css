@@ -35,12 +35,6 @@ input {
 	cursor: pointer;
 }
 
-
-.button--ask {
-	padding: 0.75em 1.25em;
-	font-weight: bold;
-}
-
 a.button {
 	background: mediumslateblue;
 	border: 2px solid mediumslateblue;
@@ -94,4 +88,9 @@ a.button {
 	padding: 0.5rem 1rem;
 	text-align: center;
 	
+}
+
+.button--ask {
+	padding: 0.75em 1.25em;
+	font-weight: bold;
 }
