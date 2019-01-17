@@ -34,6 +34,13 @@ input {
 	text-decoration: none;
 	cursor: pointer;
 }
+.button--myQuestion{
+	border: 2px solid rgba(0,0,0,0.1);
+}
+.button--ask{
+	font-weight: bold;
+	padding: 0.4em 0.8em;
+}
 
 /* Site title and top navigation */
 .site-header {
@@ -70,6 +77,10 @@ input {
 
 .question__question {
 	margin: 0;
+}
+
+.question--self{
+	border-top: 4px solid #db446f;
 }
 
 .question__date {
